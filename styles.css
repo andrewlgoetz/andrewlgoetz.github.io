@@ -1,0 +1,66 @@
+html{
+    scroll-behavior: smooth !important;
+
+    }
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-image: linear-gradient(to bottom, rgb(16, 35, 78), rgb(92, 97, 113));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  nav a {
+    color: rgb(175, 236, 235);
+    text-decoration: none;
+    padding: 1em;
+    display: inline-block;
+  }
+  
+  nav a:hover {
+    background-color: #1c1f22;
+    color: rgb(218, 242, 242);
+  }
+  
+  .about-section {
+    /*text-align: center;*/
+    margin: 3em;
+  }
+  
+  .description-section {
+    margin: 3em;
+    
+  }
+  
+  .description-section h2 {
+    color: #fff;
+  }
+  
+  .description-section h3 {
+    color: #c5dff9;
+    font-size: medium;
+    padding-left: 20px;
+  }
+  
+  
+  
+  
+  th {
+    /* border-bottom-left-radius: 2px solid #999999; */
+    
+    color: #fff;
+  }
+  
+  td {
+    border-bottom: 1px solid #c1c1c1;
+    padding: 0.5em;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1em;
+  }
